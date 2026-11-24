@@ -1,0 +1,11 @@
+{
+  "title": "Replication package for \"Why LLM-Generated Code Fails the Way It Does: A Mechanistic Account and Its Use for Repair\"",
+  "upload_type": "software",
+  "description": "Code, frozen splits and targets, and table scripts needed to reproduce the results of the paper. Large data files are in a separate Zenodo record linked from the README.",
+  "creators": [
+    {"name": "Rahman, Musfiqur", "affiliation": "Concordia University"},
+    {"name": "Begoug, Mahi", "affiliation": "Concordia University"},
+    {"name": "Shihab, Emad", "affiliation": "Concordia University"}
+  ],
+  "keywords": ["code generation", "large language models", "mechanistic interpretability", "program repair", "replication package"]
+}
